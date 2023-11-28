@@ -1,1 +1,22 @@
-
+p{
+  font-family: Courier;
+  color: green;
+}
+ul{
+  color: blue;
+}
+ol{
+  color: red;
+}
+h1{
+  background color: purple
+}
+header{
+  color: orange;
+}
+body{
+  color: yellow;
+}
+footer{
+  color: pink;
+}
